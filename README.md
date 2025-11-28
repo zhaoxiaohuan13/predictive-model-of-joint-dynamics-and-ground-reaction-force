@@ -1,0 +1,1 @@
+Please cite "H. Zhao, G. Wei, J. Xie, A. Liu, Q. Qu, J. Cao, Z. Ding, and W.H. Liao, “A predictive model of joint dynamics and ground reaction force using only leg length, body mass, and walking cadence,” PLOS One"
